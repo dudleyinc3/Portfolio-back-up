@@ -1,37 +1,40 @@
 body {
- 	font-family: 'Lato', sans-serif;
-	color: #0066ff;
-	font-weight: bold;	
-	background-color: #F0F0F0;
+    font-family: 'Lato', sans-serif;
+    color: #0066ff;
+    font-weight: bold;
+    background-color: #F0F0F0;
 }
+
 .text-muted {
-	color: #BCBBBB;
+    color: #BCBBBB;
 }
+
 .text-thin {
-	font-weight: 100;
+    font-weight: 100;
 }
 
 .title-super {
-		font-size: 60px;
+    font-size: 60px;
 }
+
 .title-logo {
-		margin-top: 20px;
+    margin-top: 20px;
 }
+
 hr {
-	border: 2.5px solid black;
+    border: 2.5px solid black;
 }
 
 h2 {
-	font-family: 'Lato', sans-serif;
-	color: black;
-	font-weight: bold;	
-
+    font-family: 'Lato', sans-serif;
+    color: black;
+    font-weight: bold;
 }
 
 h3 {
-	color: black;
+    color: black;
 }
-.col-md-4 .img-responsive {
 
-	cursor: pointer;
+.col-md-4 .img-responsive {
+    cursor: pointer;
 }
